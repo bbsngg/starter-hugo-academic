@@ -33,6 +33,8 @@ social:
 organizations:
   - name: Nanjing University
     url: http://nlp.nju.edu.cn/
+  - name: IDEA
+    url: https://www.idea.edu.cn/
 education:
   courses:
     - course: M.Eng. in Software Engineering
