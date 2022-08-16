@@ -43,9 +43,6 @@ user_groups:
   - http://nlp.nju.edu.cn/
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I’m Song Dingjie, a first-year graduate student in the [Software Institute](https://software.nju.edu.cn/ "NJU SE") and the [Natural Language Processing Group](http://nlp.nju.edu.cn/homepage/ "NJU NLP") at Nanjing University, advised by Dr. [Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) and Dr. [Jidong Ge](https://gjdnju.github.io/). I received my B.E. from the [Software Institute](https://software.nju.edu.cn/ "NJU SE") at Nanjing University. My primary research interests lie in the area of natural language processing and deep learning. My long-term goal of research is to build a intellegent system that can understand users' need and solve real-world problem. Towards this goal, I commenced a deep dive into low resource learning and dialogue system. More specifically, I was interested in building conversational agent that can be rapidly deployed in low-resource scenarios (e.g., a new business domain). My current research focuses on building models for generalization and extrapolation to new tasks/domains, which involves studies in zero-shot learning and few-shot learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
