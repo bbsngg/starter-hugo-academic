@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: songdj@smail.nju.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bbsngg1002
