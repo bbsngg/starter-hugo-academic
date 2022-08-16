@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University
+    url: http://nlp.nju.edu.cn/
 education:
   courses:
     - course: M.Eng. in Software Engineering
@@ -35,8 +35,10 @@ education:
     - course: B.Eng. in Software Engineering
       institution: Nanjing University
       year: 2021
-email: ""
+email: songdj@smail.nju.edu.cn
 superuser: true
+user_groups:
+  - http://nlp.nju.edu.cn/
 highlight_name: true
 ---
 
