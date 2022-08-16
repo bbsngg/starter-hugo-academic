@@ -19,7 +19,7 @@ social:
     link: https://twitter.com/bbsngg1002
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=jP0bKzEAAAAJ
     display:
       header: false
   - icon: github
