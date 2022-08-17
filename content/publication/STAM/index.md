@@ -3,11 +3,10 @@ title: Self-Supervised Task Augmentation for Few-Shot Intent Detection
 publication_types:
   - "2"
 authors:
-  - Sun
-  - Peng-Fei and Ouyang
-  - Ya-Wen and Song
-  - Ding-Jie and Dai
-  - Xin-Yu
+  - Sun Peng-Fei
+  - Ouyang Ya-Wen
+  - Song Ding-Jie
+  - Dai Xin-Yu
 doi: https://doi.org/10.1007/s11390-022-2029-5
 publication_short: JCST
 abstract: Few-shot intent detection is a practical challenge task, because new
@@ -38,7 +37,7 @@ image:
 summary: We present a novel self-supervised task augmentation with meta-learning
   framework, namely STAM.
 url_dataset: ""
-url_project: ""
+url_project: "https://github.com/bbsngg/STAM"
 url_source: ""
 url_video: ""
 author_notes: []
