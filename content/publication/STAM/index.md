@@ -33,7 +33,7 @@ image:
   caption: "Schematic illustration of the proposed STAM. "
   focal_point: ""
   preview_only: false
-  filename: stam.png
+  filename: feature.png
 summary: We present a novel self-supervised task augmentation with meta-learning
   framework, namely STAM.
 url_dataset: ""
