@@ -1,7 +1,7 @@
 ---
 title: Dingjie Song
 role: Graduate student in Nanjing University
-avatar_filename: 5261658977451_.pic.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
