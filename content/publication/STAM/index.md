@@ -7,7 +7,7 @@ authors:
   - Ouyang Ya-Wen
   - Song Ding-Jie
   - Dai Xin-Yu
-doi: https://doi.org/10.1007/s11390-022-2029-5
+doi: 10.1007/s11390-022-2029-5
 publication_short: JCST
 abstract: Few-shot intent detection is a practical challenge task, because new
   intents are frequently emerging and collecting large-scale data for them could
