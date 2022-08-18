@@ -1,5 +1,5 @@
 ---
-title: Self-Supervised Task Augmentation for Few-Shot Intent Detection
+title: R3: A Reading Comprehension Benchmark Requiring Reasoning Processes
 publication_types:
   - "2"
 authors:
