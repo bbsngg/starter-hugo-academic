@@ -1,5 +1,5 @@
 ---
-title: R3: A Reading Comprehension Benchmark Requiring Reasoning Processes
+title: R3\: A Reading Comprehension Benchmark Requiring Reasoning Processes
 publication_types:
   - "2"
 authors:
