@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.idea.edu.cn/'
     company_logo: idea
     location: Shenzhen, China
-    date_start: '2022-07'
+    date_start: '2022-07-29'
     date_end: ''
     description: |2-
         Responsibilities include:
