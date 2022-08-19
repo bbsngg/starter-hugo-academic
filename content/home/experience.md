@@ -36,6 +36,20 @@ experience:
         * Modelling
         * Deploying
 
+  - title: Research Intern
+    company: Nanjing University
+    company_url: 'http://nlp.nju.edu.cn/homepage/'
+    company_logo: nju
+    location: Nanjing, China
+    date_start: '2020-06-29'
+    date_end: '2021-07-29'
+    description: |2-
+        Responsibilities include:
+
+        * Analysing
+        * Modelling
+        * Deploying
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
