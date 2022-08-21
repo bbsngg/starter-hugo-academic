@@ -32,6 +32,16 @@ experience:
     description: |2-
         Advisors: Jiaxin Zhang, Kunhao Pan
 
+  - title: Graduate student
+    company: Nanjing University Natural Language Processing Group
+    company_url: 'http://nlp.nju.edu.cn/homepage/'
+    company_logo: njunlp
+    location: Nanjing, China    
+    date_start: '2021-06-29'
+    date_end: ''
+    description: |2-
+        Advisors: Xinyu, Dai
+
   - title: Research Intern
     company: Nanjing University Natural Language Processing Group
     company_url: 'http://nlp.nju.edu.cn/homepage/'
@@ -48,7 +58,7 @@ experience:
     company_logo: nju
     location: Nanjing, China
     date_start: '2017-09-01'
-    date_end: '2021-06-30'
+    date_end: '2021-6-30'
     description: |2-
         Advisors: Xinyu, Dai
 
