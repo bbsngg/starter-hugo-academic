@@ -48,7 +48,7 @@ experience:
     company_logo: nju
     location: Nanjing, China
     date_start: '2017-09-01'
-    date_end: '2021-6-30'
+    date_end: '2021-06-30'
     description: |2-
         Advisors: Xinyu, Dai
 
