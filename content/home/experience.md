@@ -30,34 +30,27 @@ experience:
     date_start: '2022-07-29'
     date_end: ''
     description: |2-
-        Responsibilities include:
-
-        * Analysing
-        * Modelling
-        * Deploying
+        Advisors: Jiaxin Zhang, Kunhao Pan
 
   - title: Research Intern
-    company: Nanjing University
+    company: Nanjing University Natural Language Processing Group
     company_url: 'http://nlp.nju.edu.cn/homepage/'
+    company_logo: njunlp
+    location: Nanjing, China
+    date_start: '2019-09-29'
+    date_end: '2021-06-31'
+    description: |2-
+        Advisors: Xinyu, Dai
+
+  - title: Undergraduate Student
+    company: Nanjing University
+    company_url: 'https://www.nju.edu.cn/main.htm'
     company_logo: nju
     location: Nanjing, China
-    date_start: '2020-06-29'
-    date_end: '2021-07-29'
+    date_start: '2017-09-01'
+    date_end: '2021-6-31'
     description: |2-
-        Responsibilities include:
-
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        Advisors: Xinyu, Dai
 
 design:
   columns: '2'
