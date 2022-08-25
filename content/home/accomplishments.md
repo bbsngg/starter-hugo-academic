@@ -46,7 +46,7 @@ item:
     organization: Citigroup
     organization_url:
     title: 15th Citi Cup Financial Innovation Application Competition
-    url: ''
+    url: 'https://www.citigroup.com/china/csts/EducationProgram/AboutEducation_CFCcn.html#tab3'
   - certificate_url:
     date_end: ''
     date_start: '2019-06-25'
@@ -54,7 +54,7 @@ item:
     organization: The China Computer Federation (CCF)
     organization_url:
     title: 2019 "Chain to Future" University Blockchain Technology Application Competition, Second Prize
-    url: ''
+    url: 'https://cloud.yiyum.com/?sid=1005&mid=270&v=100#!c/showNews/a/index/id/1102/label/323'
   - certificate_url:
     date_end: ''
     date_start: '2019-05-25'
