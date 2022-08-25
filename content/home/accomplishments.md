@@ -25,27 +25,75 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
-    date_start: '2018-12-25'
+    date_start: '2021-06-25'
     description: ''
     organization: Ministry of Education, China
     organization_url:
     title: The People’s Scholarship in China
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url:
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2020-06-25'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Ministry of Education, China
+    organization_url:
+    title: The People’s Scholarship in China
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2019-12-25'
+    description: ''
+    organization: Citigroup
+    organization_url:
+    title: 15th Citi Cup Financial Innovation Application Competition
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2019-06-25'
+    description: ''
+    organization: The China Computer Federation (CCF)
+    organization_url:
+    title: 2019 ``Chain to Future'' University Blockchain Technology Application Competition, Second Prize
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2019-05-25'
+    description: ''
+    organization: VIVO
+    organization_url:
+    title: VIVO-Hackathon programming competition, 9th Place
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2019-06-25'
+    description: ''
+    organization: Nanjing University
+    organization_url:
+    title: Outstanding Student Leader of the Communist Youth League of Nanjing University
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2019-06-25'
+    description: ''
+    organization: Ministry of Education, China
+    organization_url:
+    title: The People’s Scholarship in China
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2018-06-25'
+    description: ''
+    organization: Nanjing University
+    organization_url:
+    title: Outstanding Student Leader of the Communist Youth League of Nanjing University
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2018-06-25'
+    description: ''
+    organization: Ministry of Education, China
+    organization_url:
+    title: The People’s Scholarship in China
     url: ''
 
 design:
