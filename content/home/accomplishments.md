@@ -53,7 +53,7 @@ item:
     description: ''
     organization: The China Computer Federation (CCF)
     organization_url:
-    title: 2019 ``Chain to Future'' University Blockchain Technology Application Competition, Second Prize
+    title: 2019 "Chain to Future" University Blockchain Technology Application Competition, Second Prize
     url: ''
   - certificate_url:
     date_end: ''
