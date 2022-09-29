@@ -25,16 +25,8 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
-    date_start: '2021-06-25'
-    description: ''
-    organization: Ministry of Education, China
-    organization_url:
-    title: The People’s Scholarship in China
-    url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '2020-06-25'
-    description: ''
+    date_start: ''
+    description: '2018-2021'
     organization: Ministry of Education, China
     organization_url:
     title: The People’s Scholarship in China
@@ -73,28 +65,13 @@ item:
     url: ''
   - certificate_url:
     date_end: ''
-    date_start: '2019-06-25'
-    description: ''
-    organization: Ministry of Education, China
-    organization_url:
-    title: The People’s Scholarship in China
-    url: ''
-  - certificate_url:
-    date_end: ''
     date_start: '2018-06-25'
     description: ''
     organization: Nanjing University
     organization_url:
     title: Outstanding Student Leader of the Communist Youth League of Nanjing University
     url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '2018-06-25'
-    description: ''
-    organization: Ministry of Education, China
-    organization_url:
-    title: The People’s Scholarship in China
-    url: ''
+
 
 design:
   columns: '2'
