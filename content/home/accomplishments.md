@@ -26,7 +26,7 @@ item:
   - certificate_url:
     date_end: '2021-06-01'
     date_start: '2018-06-01'
-    description: '2018-2021'
+    description: ''
     organization: Ministry of Education, China
     organization_url:
     title: The People’s Scholarship in China
