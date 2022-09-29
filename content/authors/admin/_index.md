@@ -2,8 +2,7 @@
 title: Dingjie Song
 role: Graduate student in Nanjing University
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include natural language processing and deep learning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
