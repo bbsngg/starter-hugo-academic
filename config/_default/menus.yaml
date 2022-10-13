@@ -32,5 +32,5 @@ main:
 #    url: uploads/resume.pdf
 #    weight: 70
   - name: CV
-    url: uploads/DingjieSong-CV-en.pdf
+    url: uploads/DingjieSong_CV_en.pdf
     weight: 90
