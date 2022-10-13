@@ -52,4 +52,4 @@ Hi! I’m Song Dingjie, a first-year graduate student in the [Software Institute
 
 My primary research interests lie in the area of natural language processing and deep learning. My long-term goal of research is to build a intelligent system that can understand users' need and solve real-world problem. Towards this goal, I commenced a deep dive into low resource learning and dialogue system. More specifically, I was interested in building conversational agent that can be rapidly deployed in low-resource scenarios (e.g., a new business domain). My current research focuses on building models for generalization and extrapolation to new tasks/domains, which involves studies in zero-shot learning and few-shot learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/DingjieSong-CV-en.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/DingjieSong_CV_en.pdf" "newtab" >}}resume{{< /staticref >}}.
