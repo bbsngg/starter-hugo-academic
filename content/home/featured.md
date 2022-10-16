@@ -38,5 +38,5 @@ design:
 
 Visiting Counter (since 2022/10/16):
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SBSSebRlIqacoeGBvJj1j7m-VcoLXRl5V5oqszSHfxM"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=eJgDe5MM7c3qua4cw_Rfv4CgAoA4jh-_tADcN6qy8sQ"></script>
 
