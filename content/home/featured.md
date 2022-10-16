@@ -34,3 +34,9 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+
+Visiting Counter (since 2022/10/16):
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SBSSebRlIqacoeGBvJj1j7m-VcoLXRl5V5oqszSHfxM"></script>
+
