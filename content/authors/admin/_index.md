@@ -4,11 +4,10 @@ role: Graduate student in Nanjing University
 avatar_filename: avatar.jpg
 bio: My research interests include natural language processing and deep learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
   - Natural Language Processing
-  - Low Resource Learning
+  - Low-Resource Learning
   - Dialogue System
+  - Large Language Model
 social:
   - icon: envelope
     icon_pack: fas
