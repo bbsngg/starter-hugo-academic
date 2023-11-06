@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: The Chinese University of Hong Kong, Shenzhen
+    company_url: 'https://www.cuhk.edu.cn/en'
+    company_logo: cuhksz
+    location: Shenzhen, China
+    date_start: '2023-07-01'
+    date_end: ''
+    description: |2-
+        Advisors: Benyou Wang
+
   - title: Research Intern
     company: International Digital Economy Academy
     company_url: 'https://www.idea.edu.cn/'
     company_logo: idea
     location: Shenzhen, China
     date_start: '2022-07-29'
-    date_end: ''
+    date_end: '2023-05-29'
     description: |2-
         Advisors: Jiaxin Zhang, Kunhao Pan
 
@@ -36,7 +46,7 @@ experience:
     company: Nanjing University Natural Language Processing Group
     company_url: 'http://nlp.nju.edu.cn/homepage/'
     company_logo: njunlp
-    location: Nanjing, China    
+    location: Nanjing, China
     date_start: '2021-06-29'
     date_end: ''
     description: |2-
