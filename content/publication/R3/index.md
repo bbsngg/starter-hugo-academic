@@ -18,7 +18,7 @@ featured: true
 tags: []
 categories: []
 slides: ""
-url_pdf: ""
+url_pdf: "example.pdf"
 image:
   caption: "An example from R3. "
   focal_point: ""

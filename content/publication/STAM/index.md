@@ -28,7 +28,7 @@ featured: true
 tags: []
 categories: []
 slides: ""
-url_pdf: ""
+url_pdf: "example.pdf"
 image:
   caption: "Schematic illustration of the proposed STAM. "
   focal_point: ""

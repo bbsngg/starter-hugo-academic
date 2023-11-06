@@ -16,9 +16,9 @@ featured: true
 tags: []
 categories: []
 slides: ""
-url_pdf: ""
+url_pdf: "example.pdf"
 image:
-  caption: "The proposed method EPL. "
+  caption: "The proposed method EPL."
   focal_point: ""
   preview_only: false
   filename: featured.jpg
