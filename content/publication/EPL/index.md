@@ -1,7 +1,7 @@
 ---
 title: Episode-Based Prompt Learning for Any-Shot Intent Detection
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Sun Peng-Fei *
   - Song Ding-Jie * (equal contribution)
