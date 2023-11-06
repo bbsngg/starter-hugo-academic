@@ -29,8 +29,8 @@ image:
   preview_only: false
   filename: featured.jpg
 summary: We propose a localized medical benchmark called CMB, a Comprehensive Medical Benchmark in Chinese, designed and rooted entirely within the native Chinese linguistic and cultural framework.
-url_dataset: ""
-url_project: ""
+url_dataset: "https://huggingface.co/datasets/FreedomIntelligence/CMB"
+url_project: "https://cmedbenchmark.llmzoo.com/"
 url_source: ""
 url_video: ""
 author_notes: []
